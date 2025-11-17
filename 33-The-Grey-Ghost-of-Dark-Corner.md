@@ -1,5 +1,4 @@
 **The Grey Ghost of Dark Corner**
-
 The year was about 1959, when the spine tingling voice of the Grey Ghost was first heard in Dark Corner. Even though the eerie vocalization was heard on almost a weekly basis, not one person was able to identify the source or ascertain that it was emanating from a living being.   
 At that time, several hunters would get together almost every Saturday night and run grey fox with their hounds. Ross McCorstin, Jack McCuan, Monroe Barwich, Sr. Jim Rose, Loyd Reese, Charles (Bunster) Turner, my brother Wendyl and I were some of the regulars. Wendyl McAdoo was another semi-regular and Cecil Miller would also show up if he wasn't coon hunting with old Red and Rattler.  
 It was always a special treat when the fox came close enough to be seen by the light of the fire. On one particular night the hunters, in a circle around the campfire, were drinking coffee when the hounds chased a fox very near the fire. They were in hot pursuit and were close at hand when a strange sensational voice joined the pack. A hush fell over the men gathered around the campfire. To speak at a time like this would be a breach of etiquette. Every elbow appeared to be frozen and the coffee cups in hand didn't move. The pack dashed by in full cry, but to our disappointment, just beyond the flickering rays of the firelight.  
@@ -17,4 +16,3 @@ When the hounds were cast, Fly headed straight down a deep boulder strewn precip
 However, the instant that first machine gun chop rolled out, echoed off the solid rock walls of Wildcat Cove, out across the rippling waves of Lake Texoma and came wafting through the still night air back up the hill to our attentive ears we all knew that the mystery was indeed solved. We were almost in a trance when Ross broke the spell by saying, "I've named him Hobo."  
 Just as suddenly as the perplexing phenomena had mysteriously burst upon the scene several months earlier the phantom vanished into the shadows of the night.   
 Hobo, on that memorable occasion a half a century ago, had with one spine-tingling bark simultaneously identified and embodied "THE GREY GHOST OF DARK CORNER."
-

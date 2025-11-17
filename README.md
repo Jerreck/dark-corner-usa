@@ -1,9 +1,6 @@
 # Dark Corner USA - Separated by Chapter
-
 This directory contains the book "Dark Corner USA" separated into individual markdown files by chapter.
-
 ## Chapters
-
 1. **01-Alberta-Creek-Resort.md** - Alberta Creek Resort, July 4, 2002
 2. **02-Its-Dark-Corner-Not-Dark-Corners.md** - It's Dark Corner, Not Dark Corners!
 3. **03-Moonshine-Cave.md** - Moonshine Cave
@@ -17,11 +14,8 @@ This directory contains the book "Dark Corner USA" separated into individual mar
 11. **11-Uncle-Moodys-Honey.md** - Uncle Moody's Honey
 12. **12-Dark-Corner-Dogs.md** - Dark Corner Dogs
 13. **13-Slingshot-A-Weapon-Not-a-Toy.md** - Slingshot, A Weapon—Not a Toy
-
 ## Remaining Chapters (in original dark-corner-usa.md)
-
 The following chapters remain in the main document and can be extracted as needed:
-
 - Fox Ridge Foliage
 - Dark Corner Geodes
 - Marshall County, Oklahoma
@@ -51,10 +45,6 @@ The following chapters remain in the main document and can be extracted as neede
 - Marshal County Ferries
 - Ambush at Dogwood Crossing on Rooster Creek
 - A Friend in Need
-
 ## About This Collection
-
 This is a historical account of Dark Corner, Oklahoma and the surrounding area around Lake Texoma. Written by Willis Moody McWilliams, it includes family history, local legends, hunting stories, and detailed accounts of life in rural Oklahoma during the 20th century.
-
 Each chapter can be read independently or as part of the complete narrative.
-

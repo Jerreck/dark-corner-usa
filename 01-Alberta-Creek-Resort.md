@@ -13,4 +13,3 @@ Willis McWilliams
 PO Box 451  
 Kingston, OK 73439-0451  
 Ph. 580-564-2820
-

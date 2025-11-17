@@ -1,5 +1,4 @@
 **Extremely "Cold Case"**
-
 The death of young Fred Sheppard more than 100 years ago and the ensuing scenario was a story that was never fully told to my satisfaction. Shots were fired, and then a man walked out of a building, saw the young man lying in a pool of blood and exclaimed, "Oh my God, you've shot the wrong man\!" A shroud hung over the event and what followed three months later.  
 In the back of my mind, I knew there was more than what had been told. I wondered about it, but knew that I wasn't supposed to ask, "What really happened?" This murder was committed at a Fourth of July picnic at Old Woodville July 4, 1901\.  
 Uncertainty abounded, but apparently a contract had been put out on Jim Sheppard by a banker who came out on the short end of a financial matter. Then instead of killing Jim, the "hit man", a deputy marshal, had shot Jim Sheppard's son Fred. It was stated that Jim Sheppard went to his grave with the burden that somehow he was responsible for the death of his son.  
@@ -14,4 +13,3 @@ The tombstones of the father, mother and son are in the south central part of th
 The father's tombstone reads: JAMES L. SHEPPARD MAR. 16, 1858- FEB. 17, 1927\. *"Asleep awaiting the resurrection."*  
 There was also a hat with a couple bullet holes in it that was part of this story, but it got misplaced somewhere in the ensuing 100 years.   
 I don't recommend taking the law into your own hands. However, when a Deputy Marshall proves to be a hired killer it leaves room for lots of speculation.
-

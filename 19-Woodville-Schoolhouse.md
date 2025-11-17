@@ -1,5 +1,4 @@
 **Woodville Schoolhouse**
-
 The map that I have of (old)  Woodville with the names and house and business locations was drawn and compiles in 1993 by the late Carter McCuan, son of a barber, Ed McCuan and brother to the late Mary Jane (McCuan) Jones. For this book it has been updated with added detail by my son John, with the invaluable assistance and incredible memory of Aline (French) Dillow. "Thanks" to Mary Jane for trusting me to safeguard the many documents and pictures pertaining to Woodville.   
 I'll attempt to identify some of the students in the accompanying picture. Please allow me the privilege to place special emphasis on my mother. This picture was among her belongings. I'll start at the front, on the left and work to the right with as many names as I have and insert "UK" for Unknown.  
 First row: Lillie Muncrief, Evelyn Murr, Velma or Lillian Bledsoe, Geraldine Wheeler, Alice McCuan, and Clathy Lemmons. Second row: UK, UK, UK, Myrtle Everett and Beulah Cook. Third row: Thelma Collins, Alice Strickland, UK, UK, and Agnes Phelps (the English teacher).   
@@ -10,9 +9,7 @@ Because of severe sickness my mom had to drop out of school after her sophomore 
 The Woodville School was a two-story structure with a full basement that was only partially underground. The basement had windows. It was build in 1909 at a cost of $20, 000.00. It caught on fire and was totally destroyed on March 31, 1941\. I can almost hear some of you old-timers that I interviewed saying "He's wrong\!". Thanks to R.L. Lemmons, I knew about what time frame to investigate when I visited the Historical Society on East Main Street in Madill. "Thanks" to Wendyl Askew for calling and giving me a personal invitation to visit the Historical Society. After viewing micro-film until I nearly went blind, I finally found the following: "HIGH SCHOOL AT WOODVILLE BURNS TODAY." The article stated that the Denison Fire department responded to the blaze and was able to save the gym and grade school buildings.  
 It has been stated in various forms, "Even a blind hog will find an acorn every once in awhile." I could identify with that statement when I walked through the door of the old brown rock building where the Historical Society was housed. They had a virtual treasure chest of historical documents. The WPA erected that building. (They have now moved to the new Fred Stanley Building.) How many of you know the location of the old building? How many know the origin of those brown rocks? Would you believe it if I told you they came from Dark Corner? They were quarried just east of the Dark Corner Store on the south side of the road. Some came from what my family now calls the 20 acres. (20) The chisels. The time frame for that would have been around 1937-38. Many years later five huge rocks from the 20 were purchased from my mother by Monroe Barwick Jr. and sold to Carlo Thurlo. Carl had a contract to supply landscape rocks for the new Texas Instrument Building in Sherman, Texas. So far as I know, those rocks still grace the front landscape.   
 I take an occasional stroll down through the wooded area of our old home place and those boulders always fascinate me. I've often considered bringing one of those moss-covered rocks and putting it in front of my house here in Kingston. I wanted it just for a conversation piece, but my wife says that I don't need one. 
-
 Key to Old Woodville Map
-
 1. Holiness Church  
 2. Methodist Church  
 3. Christian Church  
@@ -128,6 +125,4 @@ Key to Old Woodville Map
 113. McLendon  
 114. Old Howard  
 115. Clyde Taylor
-
 Private barns and garages on the map are identified with a letter B or G. Each city black was 300 feet square. Each block was measure to have an alley, both east-west and north-south. Later, many of the alleys were fenced off by owners of the entire block. A sidewalk ran on both sides of Broadway from the Depot to the High School. On the south side of Main, a sidewalk ran from W.Y. Wiley's west to 5th Street, then turned north to John Taylor's residence, where it went west on Oak. The School House Ditch came from the north, turning east above the Black Church and ran between Ayers and the High School. Once past Collins' place, it turned south and flowed just east of Clyde Taylor and Old Howard's residences, and was known as Woodville Branch. This diverted runoff water around the town. 
-

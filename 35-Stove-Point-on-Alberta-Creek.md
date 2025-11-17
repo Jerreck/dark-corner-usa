@@ -1,5 +1,4 @@
 **Stove Point on Alberta Creek**	
-
 The launching ramp on the north side of Alberta Creek is on Stove Point. I'm sure that not many of the current users of that area known the name and the origin of that name. It was sometime prior to 1949 that it acquired the name "Stove Point".  
 Alice (McCuan) McWilliams moved us six kids to Kingston in August of 1949\. Prior to that we lived in Dark Corner on what is now known as McDuffee Road on part of the property where Marvin and Elaine Joiner now reside. The "White House" as we called it, was later moved and the old well is all that is left to indicated where the house was located. The Ernest Robertson family and also Denver and Myrtle May Norris lived in the "White House" after our tenure.  
 Electricity came to Dark Corner about 1947\. We all remember my sister Dorothy coming in from school one day and checking to see if our electricity was on. When to her surprise the bulb gave off a radiant glow she cried out, "I've discovered electricity\!"  
@@ -16,4 +15,3 @@ The significance of the picture of Moody, Eunice and Julian is that it ties to t
 Julian Smith was County Commissioner for a few years and while he was in office he helped in opening up some of the roads to the lake. He brought in a bulldozer and grader and widened the road to Stove Point. Limestone creek gravel from the Buncombe Creek quarry, which is now covered by Lake Rex Smith, was hauled and placed on the road in the low spots.   
 Through the efforts of many civic-minded individuals over the past 50-plus years, lake access was slowly but surely established. Now it seems that the Corps of Engineers are determined to shut off all access to the lake except at points where they can exact a toll from those wishing to visit it. As you drive around the lake there is now one constant, which is "ROAD CLOSED" signs.   
 Incidentally, the Corps of Engineers doesn't own the property around the lake. It belongs to all of us and the Corps of Engineers are supposed to be our servants in maintaining the property for our benefit. What happened?
-

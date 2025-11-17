@@ -1,5 +1,4 @@
 **World War I**
-
 Since we are observing the first anniversary of the tragic 9-11, 2001 terrorist attack, I think it's highly appropriate that we pay tribute to some of our Marshall County Veterans who helped insure our freedom.   
 Woodville, which was just a couple of miles south of the present Alberta Creek, was a small town, about 300 people, when World War I occurred. I think it's significant that approximately 30 percent of its citizens were involved in defending our country. Three of those brave soldiers gave their life that you and I might later enjoy life. One was killed in actual combat and the other two died before reaching the battlefield.   
 Fred McGarr, son of Mr. and Mrs. R.H. McGarr was born in Newport, Texas on November 23, 1892\. He enlisted May 25, 1918, Bat. F, 132 F.A., Camp Bowie, Texas. After eight weeks of training he was shipped to France and four weeks later was wounded at the battle of St. Mihiel. He died on September 3, 1918, at Camp Coetquidan (near Brest) and was buried in France. One year later, his remains were exhumed, returned stateside, and re-interred at the Woodville Cemetery.  
@@ -11,4 +10,3 @@ Some of the men from Woodville whom I knew or names familiar to me are: R.L. Hum
 I hope the names of so many were not boring to you. I can assure you that their service during the trench warfare in France was far from boring to them. The source of this information is and old book published by the Kingston Oklahoma Messenger, Editor J.C. Hopkins. Thanks to a loan of the book, "Honor Roll" from Doyle and Virginia McGarr, who have The Book End on Hwy 70 North in Kingston, the book is now housed at the Genealogical and Histrical Society in Madill.   
 Yes, we will remember 9-11, 2001, but let us also remember 11-11, 1918, at 11:00 A.M. the truce went into effect. From the "Honor Roll" I quote: "American flags were raised by the soldiers over their dugouts and guns at the various headquarters. Individual groups unfurled the Stars and Stripes, shook hands and cheered."  
 Let me close by saying, "GOD BLESS AMERICA" and "Service men and women, past, present, and future, **we salute you**." 
-

@@ -1,32 +1,16 @@
 **Marshall County Ferries**
-
 In 1887 William Noah (Noge) McCuan with his wife Arminta (Tippet) McCuan, four year old Moody and his three sisters, Lula, Ada and six month old Biddie left Hood County, Texas, which is southwest of Ft. Worth and headed to Indian Territory. They crossed the Red River on the Willis Ferry. They worked their way east across what is now Marshall County and settled near the Washita River.   
-
 In 1920 Samuel Joseph (Joe) McWilliams, wife Minnie (Gamel) McWilliams with four sons, Amos, Arch, Jim, George and four daughters Lela, Laura, Maggie and Molly arrive in Oklahoma after a 3 year trek thorugh north Texas. They left Mason County, Texas in 1917 because of a severe drought. They crossed the Red River on the Thompson Ferry south of Woodville.   
-
 Both of these families settled in what was known as Dark Corner.  
-
 There were two other ferries on the Red River between the Willis and Thompson. The Henderson Ferry would have been about six miles south of the present Caney Creek housing area. The Bounds Ferry was a mile and a half west of the Henderson Ferry.  
-
 Other ferries on the Red River upstream from the Willis Ferry were the Still House Ferry, the Burneyville Ferry, the Rock Creek Ferry, the Delaware Ferry and the Tucks Ferry. The Tucks Ferry was installed by John Martin Tuck. It was located in the Jordan Community about eight miles southeast of Marietta.   
-
 The Washita River emptied into the Red River two miles east of the Thompson Ferry. Four miles down the rover was the Rock Bluff or Love's Ferry at one of the alternate cattle crossing of the old Shawnee Trail. This was near the present Eisenhower Marina on Lake Texoma.   
-
 Around 1846 James Tyson of North Carolina, who operated numerous farms on both sides of the Washita in its rich bottom lands and ran a vast hear of cattle, owned a Ferry at Rock Bluff on the Red River. He had married Charlotte Love daughter of Henry Love of the Chickasaw nation. Therefore, the Rock Bluff Ferry and Love's Ferry were one and the same.  
-
 Bear's Ferry (or Baer's Ferry) was between the Rock Bluff Ferry and the famous Colbert Ferry. The Colbert Ferry was the first of these to be replaced by a bridge at Hwy 69- 75\.  
-
 Nine miles east of the Colbert Ferry was the Carpenter's Bluff Ferry. It too was replaced by a bridge, a railroad bridge, but an 8' wide extension on the east side was added to allow for pedestrian and horse traffic. As automobiles became more abundant the bridge became very popular. Even though thousands had crossed it ahead of me I still felt a bit fearful the few times I drove across it when I lived in Denison, TX 1964-1970. The ferry and bridge were named after ferry operation Earl Elijah Carpenter, born on 1847 in Panama, NY. Another ferry down river was near Bonham, TX. One additional ferry was located near where Blue River emptied into the Red.   
-
 The Tumey Ferry was on the Washita River between Woodville and Platter. It was between the old railroad crossing and the Red River. Members of that family still live in Bryan County, Oklahoma. Part of this information came from the grandson of the original ferry operation. I lost contact with this young man and can't seem to locate him. His father has the old ledger that was used at the ferry.  
-
 The Moots Ferry was on the Washita almost straight east of the Lake Texoma Lodge, (2206 location). It connected Kingston and Mead, and was just south of the main span of the Roosevelt Memorial Bridge on Hwy 70\.  
-
 There may have been a Waterson Ferry is this area, but I am unable to confirm the exact location. Riding on a ferry could cost anywhere from a nickel up to a quarter and taking an automobile across the river might cost 50 cents for a car and 75 cents for a truck. A night time trip would usually run for one dollar. Aline (French) Dillow told about a bunch of children from Woodville No. 2 talking Mr. Tumey into giving them a ride over to Platter and back at no charge. None of them had any money and he was a nice gentleman.   
-
 The Joe Moore Ferry was on the Washita below what was known as Thompson Crossing which was near the old Burney Place in the Aylesworth vicinity. Aylesworth was located in Marshall County 6 miles east of Kingston and north of the Roosevelt Bridge. It was named for a prominent Choctaw, Allison Aylesworth and had a post office from June 6, 1903 until October 14, 1943\. I have a postcard that was mailed to Clois Fuller when he lived in Aylesworth.  He was one of my teachers and Woodville No. 3 about 1947\. Looking northeast from the Roosevelt Bridge on Hwy 70 the old derricks are situated near Aylesworth.   
-
 The Burney place was the home of Benjamin C. Burney, brother-in-law to Governor Overton. Benjamin's parents were David C. Burney and Lucy James, their family and 18 slaves removing from Mississippi in 1844, coming by steamboat up the Red River. Benjamin C. Burney was born enroute, January 15, 1844, and was named for the ship's captain, Benjamin Crooks.  
-
 Due to the rising waters of Lake Texoma, the Willis Ferry made its final crossing when Ferry operator Max Elliott brought it back to the Willis side of the Red River on Monday, March 27, 1944\. The last passenger was William R. Demory and employee of the U.S. Army Corp of Engineers.
-
