@@ -16,3 +16,4 @@ When the hounds were cast, Fly headed straight down a deep boulder strewn precip
 However, the instant that first machine gun chop rolled out, echoed off the solid rock walls of Wildcat Cove, out across the rippling waves of Lake Texoma and came wafting through the still night air back up the hill to our attentive ears we all knew that the mystery was indeed solved. We were almost in a trance when Ross broke the spell by saying, "I've named him Hobo."  
 Just as suddenly as the perplexing phenomena had mysteriously burst upon the scene several months earlier the phantom vanished into the shadows of the night.   
 Hobo, on that memorable occasion a half a century ago, had with one spine-tingling bark simultaneously identified and embodied "THE GREY GHOST OF DARK CORNER."
+
