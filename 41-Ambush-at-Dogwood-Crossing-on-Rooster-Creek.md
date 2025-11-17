@@ -4,9 +4,7 @@ On July 22, 2011 my oldest son John took me out to visit the old Juzan family ce
 
 I took Virgie White out to the old cemetery many years ago and took several pictures for her as she viewed the old ornate tombstones. She had lived on an adjoining farm when she was just a child. Wilber Wiggs did a story for The Madill Record and used the pictures in the article.  
 
-On Nov. 16, 2005 my second cousin Gleen Dale McCuan posted a stpry on our family website. He related a story that had been tolde to him and his cousin Brenda Reese Jackson, by his father Dale McCuan, hwen he and Brenda were very small children. Dale showed them a scar on an old tree on the A.C. (Pud) Lindsay property, made by a bullet many years earlier. (Incidentally, the Lindsay property is where my family lived until 1942.)  
-
-At the time Glenn posted the story, I failed to realize that Alex Juson was actually Alexander Juzan.   
+	On Nov. 16, 2005 my second cousin Glenn Dale McCuan posted a story on our family website. He related a story that had been told to him and his cousin Brenda Reese Jackson, by his father Dale McCuan, when he and Brenda were very small children. Dale showed them a scar on an old tree on the A.C. (Pud) Lindsay property, made by a bullet many years earlier. (Incidentally, the Lindsay property is where my family lived until 1942.)At the time Glenn posted the story, I failed to realize that Alex Juson was actually Alexander Juzan.   
 
 This can be accessed online at:   
 www.chickasawhistory.com/bussell.htm or by searching Chickasaw history.   

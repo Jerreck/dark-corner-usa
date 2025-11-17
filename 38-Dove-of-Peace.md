@@ -2,9 +2,9 @@
 
 "Russell, you don't remember me but you let me go dove hunting on your place about 3 years ago so I'm not going to kill you."   
 
-Russell Washington was laying face down in the floor of his kitchen, ever the humorist he replied, "Well, now I appreciate that."   
+Russell Washington was laying on the floor of his kitchen, ever the humorist he replied, "Well, now I appreciate that."   
 
-Russell rolled over and looked up into the face of Claude Eugene Dennis, one of the two escaped convicts that had left a trail of blood from McAlister, Oklahoma to Alabama and back. The other escapee was Michael Lancaster. He was sitting in the floor eating a sandwich. He pointed a shotgun at Russell and gruffly remarked, "You interrupted my sandwich."  
+Russell rolled over and looked up into the face of Claude Eugene Dennis, one of the two escaped convicts that had left a trail of blood from McAlister, Oklahoma to Alabama and back. The other escapee was Michael Lancaster. He was sitting on the floor eating a sandwich. He pointed a shotgun at Russell and gruffly remarked, "You interrupted my sandwich."  
 
 Road blocks had been set up all over Bryan County and also in Marshall County. One road block was at the Junction of Hwy 32 and Hwy 70 which is 2 blocks from my house. My brother Richard and I took coffee down to those manning that road block about 2:00 A.M. We heard one old Highway Patrolman tell one of the young Kingston Police Officers, "Son, when they come through, there'll be dead bodies scattered everywhere." Those proved to be prophetic words just a few hours later.   
 
@@ -20,9 +20,7 @@ We had driven past the house to the back of the barn. I walked to the house, wen
 
 "No, I really believe from the way Ginger is acting she is barking at a stranger."  
 
-"OK, let me get my 22 rifle out-a-th truck and I'll have a look see."  
-
-As they entered the house Russell said, "You check the kitchen and I'll check the bedroom." Russell knew that no one was in the bedroom, because he would have seen them when he left the mail.  
+	"OK, let me get my 22 rifle out of the truck and I'll have a look see."As they entered the house Russell said, "You check the kitchen and I'll check the bedroom." Russell knew that no one was in the bedroom, because he would have seen them when he left the mail.  
 
 When Buzz walked into the kitchen Russell herd his say, "Hi, how you boys a doing?"   
 
@@ -30,7 +28,7 @@ A reply came back, "Tell that old boy in there to put that rifle down and come o
 
 Russell laid his rifle down and just before he entered the kitchen he whispered, "Lord be with us."  
 
-When he stepped inside the kitchen, he was facing two guns. Lancaster was sitting in the floor eating a peanut butter sandwich and he's the one who snarled, "You interrupted my sandwich."  
+When he stepped inside the kitchen, he was facing two guns. Lancaster was sitting on the floor eating a peanut butter sandwich and he's the one who snarled, "You interrupted my sandwich."  
 
 Russell was hoping that they wouldn't shoot him in the head. They cut appliance cords and tied Russell and Buzz's hands behind their backs. However, they failed to cut the telephone line. The fugitive took Russell's truck and headed to the highway. Russell had his hands free and was on the phone to the Highway Patrol before the men reached the highway.  
 
