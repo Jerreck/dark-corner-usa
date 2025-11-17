@@ -1,5 +1,0 @@
-**A Friend in Need**
-
-This is a continuation of the Steve Bussell story:  
-
-Steve must have had some pretty good friends in Harve McDuffee and Hick Ray. When the Spanish-American War broke out, this adventuresome pair volunteered for duty. They served under Teddy Roosevelt with the "Rough Riders" in Cuba. The "Rough Riders" is the name bestowed on the 1st United State Volunteer Cavalry, one of three such regiments raised in 1898 for the Spanish-American War, and the only one of the three to see action. The United States army was weakened and left with little manpower after the Civil War, roughly 30 years prior. As a result, President William McKinley called upon 1,250 volunteers to assist in the war efforts.

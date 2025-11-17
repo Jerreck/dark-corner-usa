@@ -1,7 +1,0 @@
-**The Rise and Fall of Texoma**
-
-The lake was filling in 1944 and went from an elevation of 533.25 up to 602.64. In 1945 it jumped up to 629\. The Corps discharged enough water to pull it back down to 614.23 in 1946\. In 1947 it crested at 627.99 and rose to 626.65 in 1951\.   
-	In 1957 the lake dropped to its lowest level since it had first filled. It stood just below the 600 mark at 599.99. The year of 1956 had been extremely dry. Then the rains came in '57 and Texoma crested at 643.04, slightly more than 3 feet above the top of the spillway.  
-	In 1964 the lake dropped to 600.96 and never got above 611.08 that year. The high water in 1982 created some ideal fishing (see 'Rarest Gems").  
-	The year of the record was 1990\. I was helping build some boat houses at Alberta Creek and we had to move them up the hill and re-tie them every day. People were catching fish in the road at the top of the hill. It finally crested at 644.71 on May 6, 1990\. One report listed it as 644.76. On July 13, 2007 the lake was once again going over the spillway and crested at 640.72.  
-	In 2011, John did most of the fishing. This 28 pound flathead was out best fish. During the normal spawning time of May and June, we totaled 127 pounds of flatheads and 519 pounds of blue and channel cats. Family, friends and neighbors got their share of the bounty. The lack of rain and the receding lake level no doubt adversely affected the spawn.
