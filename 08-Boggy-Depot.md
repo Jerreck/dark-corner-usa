@@ -7,3 +7,4 @@ The Hereford was the main reason for the dramatic decline in the number of Longh
 The 59,020 acre refuge is home to a large herd of Longhorns today and they all trace back to that original 27\.  
 I'll have more to say about Moody McCuan in some of the following chapters. Everywhere I go someone tells me something about him. So many people picked up pecans for him in the Washita River bottom, just north of Alberta Creek. Times were hard and he afforded work for many local citizens who desperately needed a job. He even provided room and board for as many as was feasible.  
 The cattle drive mentioned here was no doubt headed for Fort Gibson, Oklahoma, but my memory doesn't let me tell more about it. Fort Gibson was as far upstream as the riverboats could go, because of the shallow ford where the cattle trail crossed.
+

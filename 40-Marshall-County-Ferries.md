@@ -29,3 +29,4 @@ The Joe Moore Ferry was on the Washita below what was known as Thompson Crossing
 The Burney place was the home of Benjamin C. Burney, brother-in-law to Governor Overton. Benjamin's parents were David C. Burney and Lucy James, their family and 18 slaves removing from Mississippi in 1844, coming by steamboat up the Red River. Benjamin C. Burney was born enroute, January 15, 1844, and was named for the ship's captain, Benjamin Crooks.  
 
 Due to the rising waters of Lake Texoma, the Willis Ferry made its final crossing when Ferry operator Max Elliott brought it back to the Willis side of the Red River on Monday, March 27, 1944\. The last passenger was William R. Demory and employee of the U.S. Army Corp of Engineers.
+

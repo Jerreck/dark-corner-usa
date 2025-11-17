@@ -89,3 +89,4 @@ A. Yes, sir; he said on Rooster creek. He said they just happened to meet right 
 
 Q. Did he tell you which way they were going?  
 A. No, sir.
+

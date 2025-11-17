@@ -4,7 +4,7 @@ On July 22, 2011 my oldest son John took me out to visit the old Juzan family ce
 
 I took Virgie White out to the old cemetery many years ago and took several pictures for her as she viewed the old ornate tombstones. She had lived on an adjoining farm when she was just a child. Wilber Wiggs did a story for The Madill Record and used the pictures in the article.  
 
-	On Nov. 16, 2005 my second cousin Glenn Dale McCuan posted a story on our family website. He related a story that had been told to him and his cousin Brenda Reese Jackson, by his father Dale McCuan, when he and Brenda were very small children. Dale showed them a scar on an old tree on the A.C. (Pud) Lindsay property, made by a bullet many years earlier. (Incidentally, the Lindsay property is where my family lived until 1942.)At the time Glenn posted the story, I failed to realize that Alex Juson was actually Alexander Juzan.   
+On Nov. 16, 2005 my second cousin Glenn Dale McCuan posted a story on our family website. He related a story that had been told to him and his cousin Brenda Reese Jackson, by his father Dale McCuan, when he and Brenda were very small children. Dale showed them a scar on an old tree on the A.C. (Pud) Lindsay property, made by a bullet many years earlier. (Incidentally, the Lindsay property is where my family lived until 1942.)At the time Glenn posted the story, I failed to realize that Alex Juson was actually Alexander Juzan.   
 
 This can be accessed online at:   
 www.chickasawhistory.com/bussell.htm or by searching Chickasaw history.   
@@ -26,3 +26,4 @@ When Bounds and Hardwick caught up with the buggy at Rooster Creek, Bud Luttrell
 Bussell was a Chickasaw, but murder victim Luttrell was a white man so the trail took place in Ft. Smith, Arkansas. Steve Bussell would stand before the notorious "Hanging Judge" Isaac Parker. He was found guilty and sentenced to be hanged by the neck until dead on April 19, 1889\. However, the sentence was appealed and reduced to life in prison. Sometime later, Harve McDuffee and Hick Ray, who were with Theodore Roosevelt's Rough Riders in the Spanish-America War, contacted their old commander and President Roosevelt issued a pardon for Bussell. He was reported to be back in Indian Territory by 1902, and settled in Woodville, marrying Hick Ray's sister Bettie. Hick Ray was Kay (McCuan) McCorstin and Freda (McCuan) Norris grandfather. Evidently Steve Bussell became a respectable citizen, and his daughter Lucy (Bussell) Taylor was a Sunday School teacher.   
 
 The following is recorded and accessible online:
+
