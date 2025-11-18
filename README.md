@@ -48,3 +48,4 @@ The following chapters remain in the main document and can be extracted as neede
 ## About This Collection
 This is a historical account of Dark Corner, Oklahoma and the surrounding area around Lake Texoma. Written by Willis Moody McWilliams, it includes family history, local legends, hunting stories, and detailed accounts of life in rural Oklahoma during the 20th century.
 Each chapter can be read independently or as part of the complete narrative.
+
