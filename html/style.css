@@ -1,0 +1,519 @@
+/* Dark Corner USA - Foxfire-inspired CSS */
+/* Earthy, rustic theme evoking mountain culture, frontiersmanship, and folksy wisdom */
+
+:root {
+    --cream: #f5f1e8;
+    --tan: #d4c5a9;
+    --rust: #a64a2a;
+    --dark-brown: #4a3728;
+    --forest-green: #3d5c3f;
+    --gold: #b8860b;
+    --burnt-orange: #8b4513;
+    --slate-gray: #5a6b6c;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Georgia', 'Garamond', serif;
+    background-color: #e8e0d5;
+    color: var(--dark-brown);
+    line-height: 1.8;
+    letter-spacing: 0.3px;
+    background-image: 
+        repeating-linear-gradient(
+            90deg,
+            transparent,
+            transparent 2px,
+            rgba(162, 107, 71, 0.02) 2px,
+            rgba(162, 107, 71, 0.02) 4px
+        ),
+        repeating-linear-gradient(
+            0deg,
+            transparent,
+            transparent 1px,
+            rgba(162, 107, 71, 0.01) 1px,
+            rgba(162, 107, 71, 0.01) 2px
+        );
+    padding: 40px 20px;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', serif;
+    color: var(--rust);
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+h1 {
+    font-size: 2.8em;
+    color: var(--dark-brown);
+    border-bottom: 3px solid var(--rust);
+    padding-bottom: 0.6em;
+    margin-bottom: 1.2em;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+h2 {
+    font-size: 2em;
+    color: var(--rust);
+    border-left: 5px solid var(--forest-green);
+    padding-left: 0.8em;
+}
+
+h3 {
+    font-size: 1.6em;
+    color: var(--burnt-orange);
+}
+
+h4 {
+    font-size: 1.3em;
+    color: var(--forest-green);
+}
+
+p {
+    margin-bottom: 1.2em;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.85;
+    color: #3a3a3a;
+}
+
+/* Drop cap styling for first paragraph */
+article > p:first-of-type::first-letter {
+    font-size: 2.5em;
+    font-weight: 700;
+    float: left;
+    line-height: 0.8;
+    padding-right: 0.1em;
+    color: var(--rust);
+    font-family: 'Georgia', serif;
+}
+
+/* Links */
+a {
+    color: var(--rust);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--gold);
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+a:hover {
+    color: var(--burnt-orange);
+    border-bottom: 2px solid var(--burnt-orange);
+    background-color: rgba(184, 134, 11, 0.1);
+}
+
+a:visited {
+    color: #8b6f47;
+}
+
+/* Containers */
+body {
+    padding: 40px 20px;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Article page styling */
+article {
+    background-color: rgba(255, 252, 248, 0.95);
+    padding: 3em;
+    margin: 2em auto;
+    box-shadow: 
+        0 0 30px rgba(74, 55, 40, 0.15),
+        inset 0 1px 0 rgba(255, 255, 255, 0.6),
+        inset -1px -1px 2px rgba(74, 55, 40, 0.05);
+    border-radius: 1px;
+    position: relative;
+    max-width: 850px;
+}
+
+/* Subtle page edge effect */
+article::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        linear-gradient(to right, 
+            rgba(166, 74, 42, 0.03) 0%, 
+            transparent 3%, 
+            transparent 97%, 
+            rgba(166, 74, 42, 0.03) 100%
+        ),
+        linear-gradient(to bottom,
+            rgba(166, 74, 42, 0.02) 0%,
+            transparent 5%,
+            transparent 95%,
+            rgba(166, 74, 42, 0.02) 100%
+        );
+    pointer-events: none;
+    border-radius: 1px;
+}
+
+article > * {
+    position: relative;
+    z-index: 1;
+}
+
+/* Content sections */
+.introduction {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 2em;
+    border-radius: 2px;
+    margin-bottom: 2em;
+    box-shadow: 0 4px 6px rgba(74, 55, 40, 0.1);
+}
+
+.introduction blockquote {
+    margin-left: -0.5em;
+    padding-left: 1.5em;
+}
+
+.chapters {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 2em;
+    border-top: 3px dashed var(--rust);
+    border-bottom: 3px dashed var(--rust);
+    margin: 2em 0;
+}
+
+.chapters h2 {
+    border-left: none;
+    text-align: center;
+    color: var(--rust);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 0;
+}
+
+.chapters ol {
+    margin-left: 2em;
+    margin-bottom: 1.5em;
+}
+
+.chapters li {
+    margin-bottom: 0.8em;
+    line-height: 1.8;
+}
+
+.chapters li a {
+    font-weight: 600;
+    color: var(--rust);
+    border-bottom: 1px dotted var(--gold);
+}
+
+.chapters li a:hover {
+    color: var(--burnt-orange);
+    border-bottom: 2px solid var(--burnt-orange);
+    text-shadow: 0 0 2px rgba(139, 69, 19, 0.3);
+}
+
+/* Lists */
+ol, ul {
+    margin-left: 2em;
+    margin-bottom: 1.5em;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+li {
+    margin-bottom: 0.8em;
+    line-height: 1.8;
+}
+
+ol li a,
+ul li a {
+    font-weight: 600;
+    color: var(--rust);
+}
+
+ol li a:hover,
+ul li a:hover {
+    color: var(--burnt-orange);
+    text-shadow: 0 0 2px rgba(139, 69, 19, 0.3);
+}
+
+/* Code & Pre-formatted */
+code {
+    font-family: 'Courier New', monospace;
+    background-color: rgba(74, 55, 40, 0.05);
+    padding: 0.3em 0.6em;
+    border-radius: 3px;
+    color: var(--burnt-orange);
+    font-size: 0.95em;
+}
+
+pre {
+    background-color: rgba(90, 107, 108, 0.08);
+    border-left: 4px solid var(--slate-gray);
+    padding: 1.2em;
+    border-radius: 2px;
+    overflow-x: auto;
+    margin-bottom: 1.5em;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+    color: var(--dark-brown);
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 5px solid var(--gold);
+    padding-left: 1.5em;
+    margin: 1.5em 0;
+    color: var(--forest-green);
+    font-style: italic;
+    font-size: 1.05em;
+    background-color: rgba(184, 134, 11, 0.05);
+    padding: 1em;
+    padding-left: 1.5em;
+}
+
+blockquote p {
+    margin-bottom: 0.5em;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    background-color: rgba(255, 255, 255, 0.7);
+    box-shadow: 0 2px 4px rgba(74, 55, 40, 0.08);
+}
+
+thead {
+    background-color: var(--forest-green);
+    color: var(--cream);
+}
+
+th {
+    padding: 1em;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 3px solid var(--rust);
+    letter-spacing: 0.5px;
+}
+
+td {
+    padding: 0.9em 1em;
+    border-bottom: 1px solid var(--tan);
+    line-height: 1.7;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: rgba(212, 197, 169, 0.08);
+}
+
+tbody tr:hover {
+    background-color: rgba(184, 134, 11, 0.12);
+    transition: background-color 0.2s ease;
+}
+
+/* Horizontal rule */
+hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, transparent, var(--rust), transparent);
+    margin: 2em 0;
+    opacity: 0.6;
+}
+
+/* Strong & Emphasis */
+strong, b {
+    font-weight: 700;
+    color: var(--burnt-orange);
+}
+
+em, i {
+    font-style: italic;
+    color: var(--forest-green);
+}
+
+/* Utility classes */
+.footer {
+    text-align: center;
+    margin-top: 3em;
+    padding-top: 2em;
+    border-top: 2px dashed var(--tan);
+    color: var(--slate-gray);
+    font-size: 0.95em;
+    font-style: italic;
+}
+
+.header-divider {
+    height: 3px;
+    background: linear-gradient(to right, var(--rust), var(--forest-green), var(--rust));
+    margin: 1.5em 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5em auto;
+    border: 2px solid var(--tan);
+    box-shadow: 0 4px 8px rgba(74, 55, 40, 0.15);
+}
+
+/* Decorative elements */
+.ornament {
+    text-align: center;
+    color: var(--gold);
+    font-size: 1.5em;
+    margin: 1.5em 0;
+    letter-spacing: 0.5em;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    body {
+        padding: 15px;
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    h2 {
+        font-size: 1.6em;
+    }
+
+    h3 {
+        font-size: 1.3em;
+    }
+
+    main {
+        max-width: 100%;
+    }
+
+    .introduction,
+    .chapters {
+        padding: 1.5em;
+    }
+
+    table {
+        font-size: 0.95em;
+    }
+
+    th, td {
+        padding: 0.7em;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 10px;
+        font-size: 15px;
+    }
+
+    h1 {
+        font-size: 1.6em;
+        margin-bottom: 0.8em;
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+
+    .introduction,
+    .chapters {
+        padding: 1em;
+    }
+
+    ol, ul {
+        margin-left: 1.5em;
+    }
+
+    pre {
+        font-size: 0.85em;
+        padding: 1em;
+    }
+}
+
+/* Print styles */
+@media print {
+    body {
+        background: white;
+        color: black;
+    }
+
+    a {
+        color: var(--rust);
+        border-bottom: none;
+    }
+
+    h1, h2, h3 {
+        page-break-after: avoid;
+    }
+
+    blockquote, pre {
+        page-break-inside: avoid;
+    }
+
+    .footer {
+        border-top: 1px solid #999;
+    }
+}
+
+/* Accessibility */
+a:focus {
+    outline: 2px solid var(--gold);
+    outline-offset: 2px;
+}
+
+button:focus,
+input:focus {
+    outline: 2px solid var(--forest-green);
+    outline-offset: 2px;
+}
+
+/* Custom scrollbar (webkit browsers) */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--cream);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--rust);
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--burnt-orange);
+}
