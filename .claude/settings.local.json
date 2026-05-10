@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python --version)",
+      "PowerShell(Start-Process powershell -ArgumentList \"-NoExit\", \"-Command\", \"npx serve 'C:\\\\code\\\\dark-corner-usa' -l 3000\")",
+      "PowerShell(Get-ChildItem \"C:\\\\code\\\\dark-corner-usa\" | Select-Object Name; node --version)",
+      "Bash(npm install *)",
+      "Bash(node *)",
+      "Bash(npm list *)"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "archiver": "^8.0.0",
+    "exifr": "^7.1.3"
+  }
+}
