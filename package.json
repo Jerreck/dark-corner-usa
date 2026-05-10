@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "build": "node build.js"
+  },
   "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-react": "^7.28.5",
     "archiver": "^8.0.0",
     "exifr": "^7.1.3"
   }
