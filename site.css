@@ -672,6 +672,83 @@ body::before{
   .colophon-foot .dotline{ display:none }
 }
 
+/* ============================================================
+   ADVERTISING
+   ============================================================ */
+.advert-eyebrow{
+  font-size: 10.5px; letter-spacing: .18em; text-transform: uppercase;
+  color: var(--ink-mute); margin-bottom: 6px;
+}
+.advert-grid{
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  max-width: 32rem; margin: 20px auto 4px;
+  text-align: left;
+}
+@media (max-width: 520px){
+  .advert-grid{ grid-template-columns: 1fr; max-width: 280px; }
+}
+.advert-banner-card{
+  border: 1.5px solid var(--ink);
+  background: var(--bone);
+  padding: 18px 16px;
+  position: relative;
+}
+.advert-banner-card--featured{ border: 2px solid var(--barn); }
+.advert-badge{
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase; letter-spacing: .12em;
+  font-size: 10px;
+  background: var(--barn); color: var(--bone);
+  padding: 3px 8px; margin-bottom: 10px;
+}
+.advert-size-label{
+  font-size: 10px; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--ink-mute); margin: 0 0 4px;
+}
+.advert-size{
+  font-family: 'Alfa Slab One', serif;
+  font-size: 22px; line-height: 1; margin: 0 0 14px; color: var(--ink);
+}
+.advert-vis{
+  display: flex; align-items: flex-end; gap: 8px;
+  justify-content: center; margin: 0 0 14px;
+}
+.advert-post{ width: 4px; background: var(--ink); border-radius: 2px; flex-shrink: 0; }
+.advert-banner{
+  background: var(--bone-2); border: 1.5px solid var(--ink);
+  display: flex; align-items: center; justify-content: center;
+}
+.advert-banner--wide{ width: 100px; height: 50px; }
+.advert-banner--square{ width: 88px; height: 88px; }
+.advert-banner span{ font-size: 10px; color: var(--ink-mute); }
+.advert-price-row{
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 8px 0; border-top: 1px solid var(--rule); gap: 8px;
+}
+.advert-term{
+  font-family: 'Special Elite', monospace; font-size: 13px; color: var(--ink-mute);
+  display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+}
+.advert-val{
+  font-family: 'Alfa Slab One', serif; font-size: 18px;
+  color: var(--ink); white-space: nowrap;
+}
+.advert-per{
+  font-family: 'Special Elite', monospace; font-size: 12px; color: var(--ink-mute);
+}
+.advert-savings{
+  display: inline-block; font-size: 10px;
+  background: var(--sage); color: var(--bone);
+  padding: 2px 6px;
+  font-family: 'Oswald', sans-serif; letter-spacing: .08em; text-transform: uppercase;
+}
+.advert-note{
+  font-size: 12px; color: var(--ink-mute);
+  max-width: 32rem; margin: 16px auto 4px; line-height: 1.7; text-align: center;
+}
+
 /* prevent horizontal scroll on small screens */
 html, body { overflow-x: hidden; }
 

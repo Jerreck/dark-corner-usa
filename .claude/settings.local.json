@@ -6,7 +6,14 @@
       "PowerShell(Get-ChildItem \"C:\\\\code\\\\dark-corner-usa\" | Select-Object Name; node --version)",
       "Bash(npm install *)",
       "Bash(node *)",
-      "Bash(npm list *)"
+      "Bash(npm list *)",
+      "Bash(git rm *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(npx serve *)",
+      "Bash(Start-Sleep -Seconds 3)",
+      "Bash(Get-Content \"C:\\\\Users\\\\jerre\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--code-dark-corner-usa\\\\5b23ba93-a73f-4858-9bb2-e4795cc2fb4d\\\\tasks\\\\bhpz1okuh.output\")"
     ]
   }
 }

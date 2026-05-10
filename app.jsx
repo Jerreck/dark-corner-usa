@@ -165,6 +165,7 @@ function useHashRoute() {
     if (h === "bookmarks") return { name: "bookmarks" };
     if (h === "about") return { name: "about" };
     if (h === "contact") return { name: "contact" };
+    if (h === "advertising") return { name: "advertising" };
     return { name: "story", slug: h };
   };
   const [route, setRoute] = useState(get);
@@ -234,6 +235,7 @@ function SideMenu({ open, onClose }) {
           <a href="#/bookmarks" onClick={(e) => { e.preventDefault(); goto("bookmarks"); onClose(); }}>Bookmarks</a>
           <a href="#/about" onClick={(e) => { e.preventDefault(); goto("about"); onClose(); }}>About this book</a>
           <a href="#/contact" onClick={(e) => { e.preventDefault(); goto("contact"); onClose(); }}>Contact</a>
+          <a href="#/advertising" onClick={(e) => { e.preventDefault(); goto("advertising"); onClose(); }}>Advertising</a>
         </nav>
         <div className="sidemenu-foot mono">
         </div>
@@ -541,6 +543,100 @@ function About() {
   );
 }
 
+/* -------------------- advertising page -------------------- */
+function Advertising() {
+  return (
+    <main className="page about">
+      <div className="about-card advert-card">
+        <img src="assets/dark-corner-mark.png" alt="" className="about-mark" />
+        <div className="mono advert-eyebrow">Advertising Opportunity</div>
+        <h1 className="display about-title">Corner Signage</h1>
+        <p className="mono about-meta">
+          5961 McDuffee Rd &amp; intersection &nbsp;·&nbsp; Kingston, OK 73439<br />
+          High-traffic corner &nbsp;·&nbsp; 6 million annual Lake Texoma visitors
+        </p>
+
+        <div className="advert-grid">
+
+          <div className="advert-banner-card">
+            <p className="mono advert-size-label">Banner Size</p>
+            <p className="advert-size">4 ft × 2 ft</p>
+            <div className="advert-vis">
+              <div className="advert-post" style={{ height: "60px" }} />
+              <div className="advert-banner advert-banner--wide">
+                <span className="mono">4×2</span>
+              </div>
+              <div className="advert-post" style={{ height: "60px" }} />
+            </div>
+            <div className="advert-price-row">
+              <span className="advert-term">Monthly</span>
+              <span className="advert-val">$75 <span className="advert-per">/mo</span></span>
+            </div>
+            <div className="advert-price-row">
+              <span className="advert-term">Annual <span className="advert-savings">save $100</span></span>
+              <span className="advert-val">$800 <span className="advert-per">/yr</span></span>
+            </div>
+          </div>
+
+          <div className="advert-banner-card advert-banner-card--featured">
+            <span className="advert-badge">Best Value</span>
+            <p className="mono advert-size-label">Banner Size</p>
+            <p className="advert-size">4 ft × 4 ft</p>
+            <div className="advert-vis">
+              <div className="advert-post" style={{ height: "72px" }} />
+              <div className="advert-banner advert-banner--square">
+                <span className="mono">4×4</span>
+              </div>
+              <div className="advert-post" style={{ height: "72px" }} />
+            </div>
+            <div className="advert-price-row">
+              <span className="advert-term">Monthly</span>
+              <span className="advert-val">$150 <span className="advert-per">/mo</span></span>
+            </div>
+            <div className="advert-price-row">
+              <span className="advert-term">Annual <span className="advert-savings">save $300</span></span>
+              <span className="advert-val">$1,500 <span className="advert-per">/yr</span></span>
+            </div>
+          </div>
+
+        </div>
+
+        <p className="advert-note mono">
+          Banners displayed on t-post frames at a busy four-way intersection on Hwy 70A.<br />
+          Advertiser supplies banner &nbsp;·&nbsp; Seasonal &amp; short-term rates available<br />
+          Content subject to approval
+        </p>
+
+        <div className="about-rule" />
+
+        <p className="mono advert-size-label">To reserve your spot</p>
+        <dl className="contact-list mono" style={{ marginTop: "12px" }}>
+          <div className="contact-row">
+            <dt>Phone</dt>
+            <dd><a href="tel:+14697441362">(469) 744-1362</a></dd>
+          </div>
+          <div className="contact-row">
+            <dt>Address</dt>
+            <dd>5961 McDuffee Rd<br />Kingston, OK 73439</dd>
+          </div>
+          <div className="contact-row">
+            <dt>Email</dt>
+            <dd><a href="mailto:jerreck@darkcornerusa.com">jerreck@darkcornerusa.com</a></dd>
+          </div>
+        </dl>
+
+        <div className="about-actions">
+          <a className="btn btn-primary" href="mailto:jerreck@darkcornerusa.com">
+            <span className="mono btn-kicker">Get in touch</span>
+            <span className="btn-title">Reserve Your Spot</span>
+          </a>
+        </div>
+      </div>
+      <Colophon />
+    </main>
+  );
+}
+
 function Colophon() {
   return (
     <footer className="colophon-foot mono">
@@ -637,6 +733,7 @@ function App() {
       {route.name === "bookmarks" && <Bookmarks saved={saved} />}
       {route.name === "about" && <About />}
       {route.name === "contact" && <Contact />}
+      {route.name === "advertising" && <Advertising />}
     </>
   );
 }
