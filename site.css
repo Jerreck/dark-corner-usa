@@ -675,6 +675,14 @@ body::before{
 /* ============================================================
    ADVERTISING
    ============================================================ */
+.advert-card{
+  border: 1.5px solid var(--ink);
+  padding: 28px 24px;
+  background: var(--bone);
+  text-align: center;
+  margin: 12px 0;
+  position: relative;
+}
 .advert-eyebrow{
   font-size: 10.5px; letter-spacing: .18em; text-transform: uppercase;
   color: var(--ink-mute); margin-bottom: 6px;

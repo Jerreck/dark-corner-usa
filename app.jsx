@@ -547,7 +547,7 @@ function About() {
 function Advertising() {
   return (
     <main className="page about">
-      <div className="about-card advert-card">
+      <div className="advert-card">
         <img src="assets/dark-corner-mark.png" alt="" className="about-mark" />
         <div className="mono advert-eyebrow">Advertising Opportunity</div>
         <h1 className="display about-title">Corner Signage</h1>
@@ -602,7 +602,7 @@ function Advertising() {
         </div>
 
         <p className="advert-note mono">
-          Banners displayed on t-post frames at a busy four-way intersection on Hwy 70A.<br />
+          Banners displayed on t-post frames at a busy four-way intersection of McDuffee Rd and State Park Rd.<br />
           Advertiser supplies banner &nbsp;·&nbsp; Seasonal &amp; short-term rates available<br />
           Content subject to approval
         </p>
