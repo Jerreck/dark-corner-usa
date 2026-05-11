@@ -64,6 +64,13 @@ html = html.replace(
 // Strip cache-busting query string (not needed in a fresh deploy)
 html = html.replace(/site\.css\?v=\d+/, 'site.css');
 
+// Inject PostHog credentials from environment variables
+const posthogKey = process.env.POSTHOG_API_KEY || '';
+const posthogHost = process.env.POSTHOG_HOST || 'https://us.i.posthog.com';
+html = html.replace(/%%POSTHOG_API_KEY%%/g, posthogKey);
+html = html.replace(/%%POSTHOG_HOST%%/g, posthogHost);
+if (!posthogKey) console.warn('Warning: POSTHOG_API_KEY is not set — PostHog will not initialize.');
+
 fs.writeFileSync(path.join(DIST, 'index.html'), html);
 console.log('Built   index.html');
 

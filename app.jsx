@@ -309,6 +309,18 @@ function Library({ saved, lastSlug }) {
     return l;
   }, [q, showFilter, saved]);
 
+  useEffect(() => {
+    const trimmed = q.trim();
+    if (!trimmed || !window.posthog) return;
+    const timer = setTimeout(() => {
+      window.posthog.capture("library_searched", {
+        query: trimmed,
+        results_count: list.length,
+      });
+    }, 1000);
+    return () => clearTimeout(timer);
+  }, [q, list.length]);
+
   const resumeStory = useMemo(() => STORIES.find(s => s.slug === lastSlug), [lastSlug]);
 
   return (
@@ -365,15 +377,26 @@ function Story({ slug, saved, toggleSave, setLastSlug, onProgress }) {
   const s = STORIES[idx];
   const prev = idx > 0 ? STORIES[idx - 1] : null;
   const next = idx < STORIES.length - 1 ? STORIES[idx + 1] : null;
+  const completedRef = useRef(false);
 
   // scroll to top on slug change
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "instant" in window ? "instant" : "auto" });
     setLastSlug(slug);
+    if (s && window.posthog) {
+      window.posthog.capture("story_opened", {
+        story_slug: s.slug,
+        story_title: s.title,
+        story_number: s.n,
+        story_minutes: s.minutes,
+        story_words: s.words,
+      });
+    }
   }, [slug]);
 
   // progress
   useEffect(() => {
+    completedRef.current = false;
     let raf = 0;
     const handler = () => {
       cancelAnimationFrame(raf);
@@ -382,6 +405,16 @@ function Story({ slug, saved, toggleSave, setLastSlug, onProgress }) {
         const max = h.scrollHeight - h.clientHeight;
         const p = max > 0 ? Math.min(1, Math.max(0, h.scrollTop / max)) : 0;
         onProgress(p);
+        if (!completedRef.current && p >= 0.9 && s && window.posthog) {
+          completedRef.current = true;
+          window.posthog.capture("story_completed", {
+            story_slug: s.slug,
+            story_title: s.title,
+            story_number: s.n,
+            story_minutes: s.minutes,
+            story_words: s.words,
+          });
+        }
       });
     };
     handler();
@@ -428,10 +461,19 @@ function Story({ slug, saved, toggleSave, setLastSlug, onProgress }) {
               className="chip"
               onClick={async () => {
                 const url = location.href;
+                let share_method = "clipboard";
                 if (navigator.share) {
-                  try { await navigator.share({ title: s.title, url }); } catch (e) { }
+                  try { await navigator.share({ title: s.title, url }); share_method = "native"; } catch (e) { }
                 } else {
                   try { await navigator.clipboard.writeText(url); } catch (e) { }
+                }
+                if (window.posthog) {
+                  window.posthog.capture("story_shared", {
+                    story_slug: s.slug,
+                    story_title: s.title,
+                    story_number: s.n,
+                    share_method,
+                  });
                 }
               }}
               aria-label="Share"
@@ -613,7 +655,7 @@ function Advertising() {
         <dl className="contact-list mono" style={{ marginTop: "12px" }}>
           <div className="contact-row">
             <dt>Phone</dt>
-            <dd><a href="tel:+14697441362">(469) 744-1362</a></dd>
+            <dd><a href="tel:+14697441362" onClick={() => { if (window.posthog) window.posthog.capture("contact_link_clicked", { link_type: "phone", page: "advertising" }); }}>(469) 744-1362</a></dd>
           </div>
           <div className="contact-row">
             <dt>Address</dt>
@@ -621,12 +663,16 @@ function Advertising() {
           </div>
           <div className="contact-row">
             <dt>Email</dt>
-            <dd><a href="mailto:jerreck@darkcornerusa.com">jerreck@darkcornerusa.com</a></dd>
+            <dd><a href="mailto:jerreck@darkcornerusa.com" onClick={() => { if (window.posthog) window.posthog.capture("contact_link_clicked", { link_type: "email", page: "advertising" }); }}>jerreck@darkcornerusa.com</a></dd>
           </div>
         </dl>
 
         <div className="about-actions">
-          <a className="btn btn-primary" href="mailto:jerreck@darkcornerusa.com">
+          <a
+            className="btn btn-primary"
+            href="mailto:jerreck@darkcornerusa.com"
+            onClick={() => { if (window.posthog) window.posthog.capture("advertising_cta_clicked"); }}
+          >
             <span className="mono btn-kicker">Get in touch</span>
             <span className="btn-title">Reserve Your Spot</span>
           </a>
@@ -661,7 +707,7 @@ function Contact() {
           </div>
           <div className="contact-row">
             <dt>Phone</dt>
-            <dd><a href="tel:+14697441362">(469) 744-1362</a></dd>
+            <dd><a href="tel:+14697441362" onClick={() => { if (window.posthog) window.posthog.capture("contact_link_clicked", { link_type: "phone", page: "contact" }); }}>(469) 744-1362</a></dd>
           </div>
           <div className="contact-row">
             <dt>Address</dt>
@@ -669,7 +715,7 @@ function Contact() {
           </div>
           <div className="contact-row">
             <dt>Email</dt>
-            <dd><a href="mailto:jerreck@darkcornerusa.com">jerreck@darkcornerusa.com</a></dd>
+            <dd><a href="mailto:jerreck@darkcornerusa.com" onClick={() => { if (window.posthog) window.posthog.capture("contact_link_clicked", { link_type: "email", page: "contact" }); }}>jerreck@darkcornerusa.com</a></dd>
           </div>
         </dl>
       </div>
@@ -699,7 +745,16 @@ function App() {
   const toggleSave = useCallback((slug) => {
     update((cur) => {
       const s = { ...(cur.saved || {}) };
-      if (s[slug]) delete s[slug]; else s[slug] = Date.now();
+      const isRemoving = !!s[slug];
+      if (isRemoving) delete s[slug]; else s[slug] = Date.now();
+      if (window.posthog) {
+        const story = STORIES.find(st => st.slug === slug);
+        window.posthog.capture(isRemoving ? "story_bookmark_removed" : "story_bookmarked", {
+          story_slug: slug,
+          story_title: story ? story.title : slug,
+          story_number: story ? story.n : null,
+        });
+      }
       return { saved: s };
     });
   }, [update]);

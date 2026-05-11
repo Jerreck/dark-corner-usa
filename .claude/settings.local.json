@@ -13,7 +13,9 @@
       "Bash(git push *)",
       "Bash(npx serve *)",
       "Bash(Start-Sleep -Seconds 3)",
-      "Bash(Get-Content \"C:\\\\Users\\\\jerre\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--code-dark-corner-usa\\\\5b23ba93-a73f-4858-9bb2-e4795cc2fb4d\\\\tasks\\\\bhpz1okuh.output\")"
+      "Bash(Get-Content \"C:\\\\Users\\\\jerre\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--code-dark-corner-usa\\\\5b23ba93-a73f-4858-9bb2-e4795cc2fb4d\\\\tasks\\\\bhpz1okuh.output\")",
+      "Bash(npm run *)",
+      "Bash(npx *)"
     ]
   }
 }

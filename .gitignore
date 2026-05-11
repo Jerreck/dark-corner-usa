@@ -3,3 +3,4 @@ Style Guide.html
 node_modules
 dist
 *.ai
+.env
