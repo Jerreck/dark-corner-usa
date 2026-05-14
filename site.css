@@ -757,6 +757,57 @@ body::before{
   max-width: 32rem; margin: 16px auto 4px; line-height: 1.7; text-align: center;
 }
 
+/* ============================================================
+   WEB DESIGN
+   ============================================================ */
+.webdesign-card{
+  border: 1.5px solid var(--ink);
+  padding: 28px 24px;
+  max-width: 640px;
+  margin: 20px auto;
+  text-align: center;
+  position: relative;
+}
+.webdesign-tiers{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 14px;
+  margin: 28px 0 6px;
+}
+@media (max-width: 560px){
+  .webdesign-tiers{ grid-template-columns: 1fr; max-width: 300px; margin-left: auto; margin-right: auto; }
+}
+.webdesign-tier{
+  border: 1.5px solid var(--ink);
+  background: var(--bone);
+  padding: 18px 14px 16px;
+  position: relative;
+  text-align: left;
+}
+.webdesign-tier--featured{ border: 2px solid var(--barn); }
+.webdesign-tier-label{
+  font-size: 10px; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--ink-mute); margin: 0 0 4px;
+}
+.webdesign-tier-name{
+  font-family: 'Alfa Slab One', serif;
+  font-size: 18px; line-height: 1.1; margin: 0 0 10px; color: var(--ink);
+}
+.webdesign-tier-price{
+  font-family: 'Alfa Slab One', serif;
+  font-size: 26px; line-height: 1; margin: 0 0 14px; color: var(--ink);
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--rule);
+}
+.webdesign-tier-features{
+  list-style: none; margin: 0; padding: 0;
+  font-size: 12px; color: var(--ink-mute);
+  display: flex; flex-direction: column; gap: 6px;
+}
+.webdesign-tier-features li::before{
+  content: "— "; color: var(--dust);
+}
+
 /* prevent horizontal scroll on small screens */
 html, body { overflow-x: hidden; }
 

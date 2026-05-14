@@ -166,6 +166,7 @@ function useHashRoute() {
     if (h === "about") return { name: "about" };
     if (h === "contact") return { name: "contact" };
     if (h === "advertising") return { name: "advertising" };
+    if (h === "webdesign") return { name: "webdesign" };
     return { name: "story", slug: h };
   };
   const [route, setRoute] = useState(get);
@@ -236,6 +237,7 @@ function SideMenu({ open, onClose }) {
           <a href="#/about" onClick={(e) => { e.preventDefault(); goto("about"); onClose(); }}>About this book</a>
           <a href="#/contact" onClick={(e) => { e.preventDefault(); goto("contact"); onClose(); }}>Contact</a>
           <a href="#/advertising" onClick={(e) => { e.preventDefault(); goto("advertising"); onClose(); }}>Advertising</a>
+          <a href="#/webdesign" onClick={(e) => { e.preventDefault(); goto("webdesign"); onClose(); }}>Web Design</a>
         </nav>
         <div className="sidemenu-foot mono">
         </div>
@@ -683,6 +685,94 @@ function Advertising() {
   );
 }
 
+/* -------------------- web design page -------------------- */
+function WebDesign() {
+  return (
+    <main className="page about">
+      <div className="webdesign-card">
+        <img src="assets/dark-corner-mark.png" alt="" className="about-mark" />
+        <div className="mono advert-eyebrow">Digital Services</div>
+        <h1 className="display about-title">Web Design</h1>
+        <p className="mono about-meta">Jerreck McWilliams &nbsp;·&nbsp; Kingston, OK</p>
+
+        <p></p>
+
+        <div className="webdesign-tiers">
+
+          <div className="webdesign-tier">
+            <div className="advert-badge webdesign-tier--featured">Most Popular</div>
+            <div className="webdesign-tier-name">Landing Page</div>
+            <div className="webdesign-tier-price">$400</div>
+            <ul className="webdesign-tier-features mono">
+              <li>Single-page site</li>
+              <li>Mobile-friendly</li>
+              <li>Contact form</li>
+              <li>Domain &amp; hosting setup</li>
+            </ul>
+          </div>
+
+          <div className="webdesign-tier">
+            <div className="mono webdesign-tier-label">Standard</div>
+            <div className="webdesign-tier-name">Full Site</div>
+            <div className="webdesign-tier-price">$900</div>
+            <ul className="webdesign-tier-features mono">
+              <li>Up to 5 pages</li>
+              <li>Mobile-friendly</li>
+              <li>Contact form</li>
+              <li>Domain &amp; hosting setup</li>
+              <li>Blog or news section</li>
+            </ul>
+          </div>
+
+          <div className="webdesign-tier">
+            <div className="mono webdesign-tier-label">Ongoing</div>
+            <div className="webdesign-tier-name">Maintenance</div>
+            <div className="webdesign-tier-price">$50 <span className="advert-per">/hour</span></div>
+            <ul className="webdesign-tier-features mono">
+              <li>Content updates</li>
+              <li>Security patches</li>
+              <li>Hosting managed</li>
+              <li>Priority support</li>
+            </ul>
+          </div>
+
+        </div>
+
+        <p className="advert-note mono">
+          Custom quotes available for e-commerce, web apps, and larger projects.<br />
+          All options eligible for payment in installments as low as $50/month.
+        </p>
+
+        <div className="about-rule" />
+
+        <p className="mono advert-size-label">Get in touch</p>
+        <dl className="contact-list mono" style={{ marginTop: "12px" }}>
+          <div className="contact-row">
+            <dt>Phone</dt>
+            <dd><a href="tel:+14697441362" onClick={() => { if (window.posthog) window.posthog.capture("contact_link_clicked", { link_type: "phone", page: "webdesign" }); }}>(469) 744-1362</a></dd>
+          </div>
+          <div className="contact-row">
+            <dt>Email</dt>
+            <dd><a href="mailto:jerreck@darkcornerusa.com" onClick={() => { if (window.posthog) window.posthog.capture("contact_link_clicked", { link_type: "email", page: "webdesign" }); }}>jerreck@darkcornerusa.com</a></dd>
+          </div>
+        </dl>
+
+        <div className="about-actions">
+          <a
+            className="btn btn-primary"
+            href="mailto:jerreck@darkcornerusa.com"
+            onClick={() => { if (window.posthog) window.posthog.capture("webdesign_cta_clicked"); }}
+          >
+            <span className="mono btn-kicker">Let's build something</span>
+            <span className="btn-title">Get a Quote</span>
+          </a>
+        </div>
+      </div>
+      <Colophon />
+    </main>
+  );
+}
+
 function Colophon() {
   return (
     <footer className="colophon-foot mono">
@@ -789,6 +879,7 @@ function App() {
       {route.name === "about" && <About />}
       {route.name === "contact" && <Contact />}
       {route.name === "advertising" && <Advertising />}
+      {route.name === "webdesign" && <WebDesign />}
     </>
   );
 }
