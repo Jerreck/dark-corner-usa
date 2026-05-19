@@ -38,7 +38,7 @@ function copyDir(src, dest) {
   }
 }
 
-for (const d of ['assets', 'images']) {
+for (const d of ['assets', 'images', 'work']) {
   const src = path.join(ROOT, d);
   if (fs.existsSync(src)) {
     copyDir(src, path.join(DIST, d));
