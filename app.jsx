@@ -614,11 +614,11 @@ function Advertising() {
             </div>
             <div className="advert-price-row">
               <span className="advert-term">Monthly</span>
-              <span className="advert-val">$75 <span className="advert-per">/mo</span></span>
+              <span className="advert-val">$50 <span className="advert-per">/mo</span></span>
             </div>
             <div className="advert-price-row">
-              <span className="advert-term">Annual <span className="advert-savings">save $100</span></span>
-              <span className="advert-val">$800 <span className="advert-per">/yr</span></span>
+              <span className="advert-term">Annual <span className="advert-savings">save $50</span></span>
+              <span className="advert-val">$550 <span className="advert-per">/yr</span></span>
             </div>
           </div>
 
@@ -635,11 +635,11 @@ function Advertising() {
             </div>
             <div className="advert-price-row">
               <span className="advert-term">Monthly</span>
-              <span className="advert-val">$150 <span className="advert-per">/mo</span></span>
+              <span className="advert-val">$100 <span className="advert-per">/mo</span></span>
             </div>
             <div className="advert-price-row">
-              <span className="advert-term">Annual <span className="advert-savings">save $300</span></span>
-              <span className="advert-val">$1,500 <span className="advert-per">/yr</span></span>
+              <span className="advert-term">Annual <span className="advert-savings">save $200</span></span>
+              <span className="advert-val">$1,000 <span className="advert-per">/yr</span></span>
             </div>
           </div>
 
